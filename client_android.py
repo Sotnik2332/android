@@ -11,8 +11,8 @@ from datetime import datetime
 import re
 
 # ===== НАСТРОЙКИ =====
-TELEGRAM_BOT_TOKEN = "7961419672:AAEd-VMzuf43W9PsaQLveQ__vYMf2EOswu0"
-TELEGRAM_CHAT_ID = "5024505351"
+TELEGRAM_BOT_TOKEN = 
+TELEGRAM_CHAT_ID = 
 TEMP_DIR = "/data/local/tmp/full_system_report"
 MAX_FILES_TO_SEND = 10  # Лимит файлов для отправки в Telegram
 
